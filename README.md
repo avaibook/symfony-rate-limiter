@@ -1,8 +1,11 @@
-Rate Limiter Component
-======================
+Rate Limiter Component Fork (Compatible with Symfony <=4.4)
+============================================================================
 
 The Rate Limiter component provides a Token Bucket implementation to
 rate limit input and output in your application.
+
+This is a fork of the [original bundle](https://github.com/symfony/rate-limiter) that makes it
+compatible with Symfony <= 4.4.
 
 **This Component is experimental**.
 [Experimental features](https://symfony.com/doc/current/contributing/code/experimental.html)
@@ -13,7 +16,7 @@ Getting Started
 ---------------
 
 ```
-$ composer require symfony/rate-limiter
+$ composer require avaibook/symfony-rate-limiter
 ```
 
 ```php
