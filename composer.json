@@ -1,11 +1,15 @@
 {
-    "name": "klke/rate-limiter",
+    "name": "avaibook/symfony-rate-limiter",
     "type": "library",
-    "description": "Provides a Token Bucket implementation to rate limit input and output in your application",
-    "keywords": ["limiter", "rate-limiter"],
+    "description": "Sf4.4 compatibility patch of Symfony RateLimiter component, that provides a Token Bucket implementation to rate limit input and output in your application",
+    "keywords": ["rate" ,"limiter", "symfony", "symfony-rate-limiter"],
     "homepage": "https://symfony.com",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Avaibook",
+            "email": "sales-es@avaibook.com"
+        },
         {
             "name": "Wouter de Jong",
             "email": "wouter@wouterj.nl"
